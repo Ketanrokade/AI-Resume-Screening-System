@@ -71,9 +71,7 @@ This system solves that problem using:
 
 ### 📊 Analytics Dashboard (4 Tabs)
 - **Tab 1 — Rankings:** Per-candidate score cards with donut charts and skill badges
-- **Tab 2 — Charts:** Bar chart, pie chart, skill count chart, radar comparison
-- **Tab 3 — Skill Analysis:** Heatmap grid, missing skills breakdown
-- **Tab 4 — Full Report:** Complete table + CSV download
+- **Tab 2 — Full Report:** Complete table + CSV download
 
 ---
 
