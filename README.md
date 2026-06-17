@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI-Based Resume Screening System
 
 <div align="center">
@@ -262,5 +263,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 **Built with ❤️ by Ketan Rokade**
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
-
-</div>
